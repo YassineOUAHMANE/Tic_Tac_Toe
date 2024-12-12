@@ -28,9 +28,13 @@ Welcome to the **Tic Tac Toe Game**! 🕹️ This project is a fun implementatio
 
 ## 🎮 How to Play
 1- Launch the game.
+
 2- Choose whether you or the AI starts first.
+
 3- Take turns to place your marker (X or O) on the board.
+
 4- The first to align 3 markers horizontally, vertically, or diagonally wins! 🎉
+
 5- Track your score at the bottom and click "Restart" to play again.
 
 ## 🤖 AI Functionality
